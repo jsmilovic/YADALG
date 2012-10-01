@@ -1,0 +1,5 @@
+C:\Users\Jordan\AppData\Local\Temporary Projects\DALGenerator\bin\Debug\DALGenerator.exe
+C:\Users\Jordan\AppData\Local\Temporary Projects\DALGenerator\bin\Debug\DALGenerator.pdb
+C:\Users\Jordan\AppData\Local\Temporary Projects\DALGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\AppData\Local\Temporary Projects\DALGenerator\obj\x86\Debug\DALGenerator.exe
+C:\Users\Jordan\AppData\Local\Temporary Projects\DALGenerator\obj\x86\Debug\DALGenerator.pdb
